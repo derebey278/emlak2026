@@ -1,0 +1,2 @@
+-- Contract Template Fields Migration
+-- Add your migration SQL here
